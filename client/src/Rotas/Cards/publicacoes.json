@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "capa": "capa.svg",
+        "titulo": "Cultivando a fé autêntica em tempos desafiadores",
+        "texto": "Em uma era marcada pelo materialismo é importânte termos nossa base sólida no conhecimento bíblico."
+    },
+    {
+        "id": 2,
+        "capa": "capa2.svg",
+        "titulo": "O dono da bola",
+        "texto": "De que lado do time você quer ficar? Eu prefiro ficar com o time do dono da bola!"
+    }
+]
